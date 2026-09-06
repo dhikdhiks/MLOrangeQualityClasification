@@ -13,16 +13,6 @@ The model is built using **Logistic Regression** with a comprehensive preprocess
 
 ---
 
-## 📸 Screenshots
-
-| Prediction Form | Result |
-|:---:|:---:|
-| ![Form](screenshots/form.png) | ![Result](screenshots/result.png) |
-
-> *Replace the image paths with your actual screenshots after deployment.*
-
----
-
 ## ✨ Features
 
 - 🍊 **Predict orange quality** (Bagus/Sedang/Jelek) based on 7 features
